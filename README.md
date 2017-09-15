@@ -19,12 +19,17 @@ GitHub Résumé
 <br />
 
 ## <a name="preview"></a>Preview
+[![Résumé](https://raw.githubusercontent.com/teddyrendahl/resume/master/resume/resume.png)](https://raw.githubusercontent.com/teddyrendahl/resume/master/resume/resume.pdf)
 
-A link to the [PDF](https://raw.githubusercontent.com/teddyrendahl/resume/master/resume/resume.pdf)
+## What is this?
+My résumé! Everything is formatted with LaTeX, then deployed to my [**website**](teddyrendahl.github.io)
+via [**Travis CI**](travis-ci.org) and [**doctr**](github.com/drdoctr/doctr). This way all my information 
+stays up to date, cleanly formatted and not to mention version controlled.
 
-| Page. 1 | Page. 2 |
-|:---:|:---:|
-| [![Résumé](https://raw.githubusercontent.com/teddyrendahl/resume/master/resume/resume-0.png)](https://raw.githubusercontent.com/teddyrendahl/resume/master/resume/resume.pdf)  | [![Résumé](https://raw.githubusercontent.com/teddyrendahl/resume/master/resume/resume-1.png)](https://raw.githubusercontent.com/teddyrendahl/resume/master/resume/resume.pdf) |
+## But why?
+Because I can! Plus this way, you, my potential employer or fellow programming enthusiast, can be impressed 
+with my mighty skills. What better way to present a resume then with the skills I'm claiming to have expertise 
+in?
 
-## <a name="credit">Credit
-[**Awesome CV**](https://github.com/posquit0/Awesome-CV) provided the LaTeX templates
+## Credit
+Thanks to [**Awesome CV**](https://github.com/posquit0/Awesome-CV) for providing the LaTeX templates
