@@ -22,14 +22,11 @@ GitHub Résumé
 [![Résumé](https://raw.githubusercontent.com/teddyrendahl/resume/master/resume/resume.png)](https://raw.githubusercontent.com/teddyrendahl/resume/master/resume/resume.pdf)
 
 ## What is this?
-My résumé! Everything is formatted with LaTeX, then deployed to my [**website**](teddyrendahl.github.io)
-via [**Travis CI**](travis-ci.org) and [**doctr**](github.com/drdoctr/doctr). This way all my information 
-stays up to date, cleanly formatted and not to mention version controlled.
+My résumé! Everything is formatted with LaTeX and version controlled with Git. 
 
 ## But why?
 Because I can! Plus this way, you, my potential employer or fellow programming enthusiast, can be impressed 
-with my mighty skills. What better way to present a resume then with the skills I'm claiming to have expertise 
-in?
+with my mighty skills.
 
 ## Credit
 Thanks to [**Awesome CV**](https://github.com/posquit0/Awesome-CV) for providing the LaTeX templates
