@@ -1,3 +1,6 @@
+## Ignore built PDF and docs
+build/*
+
 ## Core latex/pdflatex auxiliary files:
 *.aux
 *.lof
