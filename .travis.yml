@@ -12,7 +12,6 @@ services:
 
 script:
    - docker run --rm -w "/doc" -v "$PWD":/doc thomasweise/texlive make resume.pdf
-   - set -e
    - if [[ $TRAVIS_BRANCH == 'master' && $TRAVIS_PULL_REQUEST == false ]]; then
        pip install doctr
        doctr deploy --built-docs build --deploy-branch-name build .
