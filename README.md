@@ -12,14 +12,14 @@ GitHub Résumé
   <a href="https://travis-ci.org/teddyrendahl/resume.svg?branch=master">
     <img alt="Travis" src="https://travis-ci.org/teddyrendahl/resume.svg?branch=master" />
   </a>
-  <a href="https://raw.githubusercontent.com/teddyrendahl/resume/master/resume/resume.pdf">
+  <a href="https://raw.githubusercontent.com/teddyrendahl/resume/build/resume.pdf">
     <img alt="Resume" src="https://img.shields.io/badge/resume-pdf-green.svg" />
   </a>
 </div>
 <br />
 
 ## <a name="preview"></a>Preview
-[![Résumé](https://raw.githubusercontent.com/teddyrendahl/resume/master/resume/resume.png)](https://raw.githubusercontent.com/teddyrendahl/resume/master/resume/resume.pdf)
+[![Résumé](https://raw.githubusercontent.com/teddyrendahl/resume/build/resume.png)](https://raw.githubusercontent.com/teddyrendahl/resume/build/resume.pdf)
 
 ## What is this?
 My résumé! Everything is formatted with LaTeX and version controlled with Git. 
