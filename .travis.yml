@@ -10,20 +10,9 @@ env:
 services:
    - docker
 
-before_script:
-   - sudo apt-get --purge remove imagemagick
-   - sudo apt-get install ghostscript
-   - sudo apt-get install libgs-dev
-   - sudo apt-get install build-essential libx11-dev libxext-dev zlib1g-dev libpng12-dev libjpeg-dev libfreetype6-dev libxml2-dev
-   - sudo apt-get build-dep imagemagick
-   - wget https://www.imagemagick.org/download/ImageMagick-7.0.7-28.tar.gz
-   - tar -xzvf ImageMagick-7.0.7-28.tar.gz
-   - pushd ImageMagick-7.0.7-28 && ./configure --with-gslib=yes --prefix=/usr && make && sudo make install
-   - popd
-
 script:
-   - docker run --rm -w "/doc" -v "$PWD":/doc thomasweise/texlive make resume.pdf
-   - convert -density 300 -quality 90 build/resume.pdf build/resume.png 
+   - docker run --rm -w "/doc" -v "$PWD":/doc teddyrendahl/texlive:v0.0.0  make resume.png
+   - set -e
    - |
      if [[ $TRAVIS_BRANCH == 'master' && $TRAVIS_PULL_REQUEST == false ]]; then
        pip install doctr
