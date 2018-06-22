@@ -22,7 +22,7 @@ GitHub Résumé
 [![Résumé](https://raw.githubusercontent.com/teddyrendahl/resume/build/resume.png)](https://raw.githubusercontent.com/teddyrendahl/resume/build/resume.pdf)
 
 ## What is this?
-My résumé! Everything is formatted with LaTeX and version controlled with Git. 
+My résumé! Everything is formatted with LaTeX and version controlled with Git. The entire resume is built on a Travis CI server and then deployed back to this repository after every succesful commit.
 
 ## But why?
 Because I can! Plus this way, you, my potential employer or fellow programming enthusiast, can be impressed 
