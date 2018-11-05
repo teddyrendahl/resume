@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2018.4.7)  22 JUN 2018 06:05
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2018.4.7)  5 NOV 2018 04:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -791,46 +791,49 @@ LaTeX Info: Redefining \nameref on input line 77.
 
 Package hyperref Warning: Rerun to get /PageLabels entry.
 
-(./resume/honors.tex
+(./resume/experience.tex
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 10.95015pt on input line 2.
+(Font)              scaled to size 10.95015pt on input line 18.
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 7.67863pt on input line 2.
+(Font)              scaled to size 7.67863pt on input line 18.
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 5.45398pt on input line 2.
+(Font)              scaled to size 5.45398pt on input line 18.
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 10.94983pt on input line 2.
+(Font)              scaled to size 10.94983pt on input line 18.
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 7.6784pt on input line 2.
+(Font)              scaled to size 7.6784pt on input line 18.
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 5.45381pt on input line 2.
+(Font)              scaled to size 5.45381pt on input line 18.
 LaTeX Font Info:    Font shape `EU1/SourceSansPro(2)/m/sl' in size <9> not avai
 lable
 (Font)              Font shape `EU1/SourceSansPro(2)/m/it' tried instead on inp
-ut line 7.
-) (./resume/experience.tex
+ut line 18.
 LaTeX Font Info:    Font shape `EU1/SourceSansPro(2)/m/sl' in size <8> not avai
 lable
 (Font)              Font shape `EU1/SourceSansPro(2)/m/it' tried instead on inp
-ut line 19.
-) (./resume/presentation.tex)
-(./resume/writing.tex) (./resume/education.tex)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 88.
- [1
+ut line 18.
+) (./resume/education.tex) (./resume/skills.tex
+Overfull \hbox (49.18332pt too wide) in alignment at lines 2--12
+[] [] 
+ []
 
-]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 88.
+) (./resume/presentation.tex) [1
+
+] (./resume/writing.tex)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 89.
+ [2]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 89.
  (build/resume.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 88.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 88.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 89.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 89.
  ) 
 Here is how much of TeX's memory you used:
- 27860 strings out of 495252
- 481278 string characters out of 6180859
- 596625 words of memory out of 5000000
- 30880 multiletter control sequences out of 15000+600000
- 6504 words of font info for 75 fonts, out of 8000000 for 9000
+ 27864 strings out of 495252
+ 481491 string characters out of 6180859
+ 596628 words of memory out of 5000000
+ 30882 multiletter control sequences out of 15000+600000
+ 6520 words of font info for 77 fonts, out of 8000000 for 9000
  264 hyphenation exceptions out of 8191
  53i,11n,68p,10391b,423s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on build/resume.pdf (1 page).
+Output written on build/resume.pdf (2 pages).
