@@ -511,7 +511,7 @@
   \phantomsection{}
   \sectionstyle{#1}
   \color{gray}\vhrulefill{0.9pt}
-  \par\nobreak\addvspace{1ex}
+  \par\nobreak\addvspace{0.25ex}
 }
 
 % Define a subsection for CV
