@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2018.4.7)  25 JUN 2019 18:29
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2018.4.7)  28 JUN 2019 04:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -793,27 +793,27 @@ Package hyperref Warning: Rerun to get /PageLabels entry.
 
 (./resume/experience.tex
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 10.95015pt on input line 18.
+(Font)              scaled to size 10.95015pt on input line 19.
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 7.67863pt on input line 18.
+(Font)              scaled to size 7.67863pt on input line 19.
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 5.45398pt on input line 18.
+(Font)              scaled to size 5.45398pt on input line 19.
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 10.94983pt on input line 18.
+(Font)              scaled to size 10.94983pt on input line 19.
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 7.6784pt on input line 18.
+(Font)              scaled to size 7.6784pt on input line 19.
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 5.45381pt on input line 18.
+(Font)              scaled to size 5.45381pt on input line 19.
 LaTeX Font Info:    Font shape `EU1/SourceSansPro(2)/m/sl' in size <9> not avai
 lable
 (Font)              Font shape `EU1/SourceSansPro(2)/m/it' tried instead on inp
-ut line 18.
+ut line 19.
 LaTeX Font Info:    Font shape `EU1/SourceSansPro(2)/m/sl' in size <8> not avai
 lable
 (Font)              Font shape `EU1/SourceSansPro(2)/m/it' tried instead on inp
-ut line 18.
+ut line 19.
 ) (./resume/education.tex) (./resume/skills.tex
-Overfull \hbox (49.18332pt too wide) in alignment at lines 2--12
+Overfull \hbox (49.18332pt too wide) in alignment at lines 2--13
 [] [] 
  []
 
@@ -830,7 +830,7 @@ Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 89.
 Here is how much of TeX's memory you used:
  27864 strings out of 495252
  481491 string characters out of 6180859
- 596638 words of memory out of 5000000
+ 594638 words of memory out of 5000000
  30882 multiletter control sequences out of 15000+600000
  6520 words of font info for 77 fonts, out of 8000000 for 9000
  264 hyphenation exceptions out of 8191
