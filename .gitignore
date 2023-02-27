@@ -1,8 +1,13 @@
+# PyCharm
+.idea/*
+
 ## MacOS
 .DS_Store
 
 ## Ignore built PDF and docs
 build/*
+!build/resume.pdf
+!build/*.png
 
 
 ## Intermediate documents:

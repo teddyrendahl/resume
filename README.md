@@ -19,16 +19,20 @@ GitHub Résumé
 <br />
 
 ## <a name="preview"></a>Preview
-| Page. 1 | Page. 2 |
-|:---:|:---:| 
-| [![Résumé](https://raw.githubusercontent.com/teddyrendahl/resume/build/resume-0.png)](https://raw.githubusercontent.com/teddyrendahl/resume/build/resume.pdf) | [![Résumé](https://raw.githubusercontent.com/teddyrendahl/resume/build/resume-1.png)](https://raw.githubusercontent.com/teddyrendahl/resume/build/resume.pdf) | 
+|                                                                             Page. 1                                                                             |                                                                             Page. 2                                                                             |
+|:---------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------:| 
+| [![Résumé](https://raw.githubusercontent.com/teddyrendahl/resume/master/resume-0.png)](https://raw.githubusercontent.com/teddyrendahl/resume/master/resume.pdf) | [![Résumé](https://raw.githubusercontent.com/teddyrendahl/resume/master/resume-1.png)](https://raw.githubusercontent.com/teddyrendahl/resume/master/resume.pdf) | 
 
 ## What is this?
-My résumé! Everything is formatted with LaTeX and version controlled with Git. The entire resume is built on a Travis CI server and then deployed back to this repository after every succesful commit.
+My résumé! Everything is formatted with LaTeX and version controlled with Git.
 
 ## But why?
 Because I can! Plus this way, you, my potential employer or fellow programming enthusiast, can be impressed 
 with my mighty skills.
 
+## Local Builds
+```shell
+docker run --rm -w "/doc" -v "$PWD":/doc teddyrendahl/texlive:v0.0.0  make resume.png
+```
 ## Credit
 Thanks to [**Awesome CV**](https://github.com/posquit0/Awesome-CV) for providing the LaTeX templates
