@@ -9,19 +9,16 @@ GitHub Résumé
 
 
 <div align="center">
-  <a href="https://travis-ci.org/teddyrendahl/resume.svg?branch=master">
-    <img alt="Travis" src="https://travis-ci.org/teddyrendahl/resume.svg?branch=master" />
-  </a>
-  <a href="https://raw.githubusercontent.com/teddyrendahl/resume/build/resume.pdf">
+  <a href="https://raw.githubusercontent.com/teddyrendahl/resume/master/build/resume.pdf">
     <img alt="Resume" src="https://img.shields.io/badge/resume-pdf-green.svg" />
   </a>
 </div>
 <br />
 
 ## <a name="preview"></a>Preview
-|                                                                             Page. 1                                                                             |                                                                             Page. 2                                                                             |
-|:---------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------:| 
-| [![Résumé](https://raw.githubusercontent.com/teddyrendahl/resume/master/resume-0.png)](https://raw.githubusercontent.com/teddyrendahl/resume/master/resume.pdf) | [![Résumé](https://raw.githubusercontent.com/teddyrendahl/resume/master/resume-1.png)](https://raw.githubusercontent.com/teddyrendahl/resume/master/resume.pdf) | 
+|                                                                                   Page. 1                                                                                   |                                                                                   Page. 2                                                                                   |
+|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------:| 
+| [![Résumé](https://raw.githubusercontent.com/teddyrendahl/resume/master/build/resume-0.png)](https://raw.githubusercontent.com/teddyrendahl/resume/master/build/resume.pdf) | [![Résumé](https://raw.githubusercontent.com/teddyrendahl/resume/master/build/resume-1.png)](https://raw.githubusercontent.com/teddyrendahl/resume/master/build/resume.pdf) | 
 
 ## What is this?
 My résumé! Everything is formatted with LaTeX and version controlled with Git.
