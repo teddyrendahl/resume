@@ -16,9 +16,7 @@ GitHub Résumé
 <br />
 
 ## <a name="preview"></a>Preview
-|                                                                                   Page. 1                                                                                   |                                                                                   Page. 2                                                                                   |
-|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------:| 
-| [![Résumé](https://raw.githubusercontent.com/teddyrendahl/resume/master/build/resume-0.png)](https://raw.githubusercontent.com/teddyrendahl/resume/master/build/resume.pdf) | [![Résumé](https://raw.githubusercontent.com/teddyrendahl/resume/master/build/resume-1.png)](https://raw.githubusercontent.com/teddyrendahl/resume/master/build/resume.pdf) | 
+[![Résumé](https://raw.githubusercontent.com/teddyrendahl/resume/master/build/resume.png)](https://raw.githubusercontent.com/teddyrendahl/resume/master/build/resume.pdf)
 
 ## What is this?
 My résumé! Everything is formatted with LaTeX and version controlled with Git.
